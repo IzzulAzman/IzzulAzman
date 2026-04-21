@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @IzzulAzman
 - 👀 I’m interested in exploring and developing Machine Learning technologies
-- 🌱 I’m currently learning in Mechatronics Engineering (Final Year Undergraduate)
+- 🌱 I’m Diploma in Mechatronics Engineering
+- 🌱 I'm Bachelor's Degree in Robotics and Automation Technology Engineering with Honours 
 - 💞️ I’m looking to collaborate on C, C#, C++, Python
-- 📫 How to reach me ...
+- 📫 Looking for ways to expand my studies
 
 <!---
 IzzulAzman/IzzulAzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
